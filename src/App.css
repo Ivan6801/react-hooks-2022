@@ -2,6 +2,24 @@
   text-align: center;
 }
 
+h1 {
+  margin: 0;
+}
+
+.button-toggle {
+  cursor: pointer;
+}
+
+.bg-light {
+  background-color: #fafafa;
+  color: #252525;
+}
+
+.bg-dark {
+  background-color: #252525;
+  color: #fafafa;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
